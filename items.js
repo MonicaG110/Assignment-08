@@ -419,7 +419,7 @@ var items = [{
   "ending_tsz": 1410390149,
   "original_creation_tsz": 1399762949,
   "last_modified_tsz": 1399762949,
-  "price": 18.00,
+  "price":18.00,
   "currency_code": "GBP",
   "quantity": 1,
   "tags": ["Collectible", "Vintage", "Americana", "Malt Liquor", "Advertisement", "home decor", "Kitchen", "man cave", "Decorative", "Gift", "Schlitz", "display", "souvenir"],
